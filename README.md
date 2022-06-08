@@ -53,4 +53,3 @@ To start a new business, the existing business analysis is important.  To create
 	
 [Bike sharing analysis](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
 ---
-
