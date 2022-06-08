@@ -13,17 +13,17 @@ To start a new business, the existing business analysis is important.  To create
 ---	
 - Top Ending Station : Tells us ending location of the bike trip by its quantity in August 2019 
 
-[Top Ending Station](https://public.tableau.com/app/profile/sonmi.kim/viz/Ending_Location/TopEndingLocation)
+[Top Ending Station](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/TopEndingLocation)
 ---
 	
 - Checkout Times for Users : Tells us duration of the bike trips, which indicates how long bike will be used for the trips.  The chart shows most of the trips are within 30 min, which also aid us how bike can be used, therefore how bike will be last.
 
-[Checkout Times for Users](https://public.tableau.com/app/profile/sonmi.kim/viz/Checkout_Times_for_Users_16543906322450/CheckoutTimesforUsers)
+[Checkout Times for Users](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
 ---
 	
 - Customers by Gender : Tells us what gender is used the bike trip the most.  This ananlysis clearly tells us that this is male focused business.
 
-[Customers by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Customers_by_Gender/CustomersbyGender)
+[Customers by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/CustomersbyGender)
 ---
 	
 - Checkout Times by Gender : This also confirms that the business is driven by male customers and used mostly by commuting in the morning and late afternoon.
@@ -33,12 +33,12 @@ To start a new business, the existing business analysis is important.  To create
 	
 - Trips by Weekday per Hour : This indicates the prime time for the business during weekdays and weekends.  Unlike weekdays, weekends are busy throughout the day and lesser in commuting hours.
 
-[Trips by Weekday per Hour](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Weekday_per_Hour_16543909197500/TripsbyWeekdayperHour)
+[Trips by Weekday per Hour](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/TripsbyWeekdayperHour)
 ---
 	
 - Trips by Gender (Weekday per Hour): Again dominated by male commuting hours.
 
-[Trips by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_16543910114510/TripsbyGender)
+[Trips by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/TripsbyGender)
 ---
 	
 - User Trips by Gender by Weekday : More details hour weekdays on gender figure
@@ -53,6 +53,4 @@ To start a new business, the existing business analysis is important.  To create
 	
 [Bike sharing analysis](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
 ---
-
-
 
