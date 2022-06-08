@@ -18,7 +18,7 @@ To start a new business, the existing business analysis is important.  To create
 	
 - Checkout Times for Users : Tells us duration of the bike trips, which indicates how long bike will be used for the trips.  The chart shows most of the trips are within 30 min, which also aid us how bike can be used, therefore how bike will be last.
 
-[Checkout Times for Users](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
+[Checkout Times for Users](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/CheckoutTimesforUsers)
 ---
 	
 - Customers by Gender : Tells us what gender is used the bike trip the most.  This ananlysis clearly tells us that this is male focused business.
@@ -28,7 +28,7 @@ To start a new business, the existing business analysis is important.  To create
 	
 - Checkout Times by Gender : This also confirms that the business is driven by male customers and used mostly by commuting in the morning and late afternoon.
 
-[Checkout Times by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Checkout_Times_by_Gender_16543907807600/CheckoutTimesbyGender)
+[Checkout Times by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/CheckoutTimesbyGender)
 ---
 	
 - Trips by Weekday per Hour : This indicates the prime time for the business during weekdays and weekends.  Unlike weekdays, weekends are busy throughout the day and lesser in commuting hours.
@@ -38,12 +38,12 @@ To start a new business, the existing business analysis is important.  To create
 	
 - Trips by Gender (Weekday per Hour): Again dominated by male commuting hours.
 
-[Trips by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/TripsbyGender)
+[Trips by Gender](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_16543910114510/TripsbyGender)
 ---
 	
-- User Trips by Gender by Weekday : More details hour weekdays on gender figure
+- User Trips by Gender by Weekday Per hour: More details hour weekdays on gender figure
 
-[User Trips by Gender by Weekday](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
+[User Trips by Gender by Weekday](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_16543910114510/TripsbyGender)
 ---
 	
 	
@@ -53,3 +53,4 @@ To start a new business, the existing business analysis is important.  To create
 	
 [Bike sharing analysis](https://public.tableau.com/app/profile/sonmi.kim/viz/Trips_by_Gender_by_Weekday/NYCBikeTripAnalysis)
 ---
+
